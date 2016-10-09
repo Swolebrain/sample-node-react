@@ -1,0 +1,10 @@
+body{
+  background-color: #303030;
+  color: #e0e0e0;
+  font-family: "Trebuchet Ms";
+  font-weight: normal;
+}
+.cool-list{
+  list-style-type: none;
+  font-size: 1.2rem;
+}
